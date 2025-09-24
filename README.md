@@ -1,5 +1,7 @@
+<!-- Banner / Gif -->
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# 👩‍💻 From Sound to Software  
+# 🚀 From Sound to Software  
 *Code, creativity & curiosity*  
 
 ---
