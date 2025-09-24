@@ -9,7 +9,8 @@
 - 🌱 Junior Fullstack Web Developer, exploring the world of code one project at a time.  
 - 🔄 Career switcher: from sound technician to web development.
 - 🎓 Obtained **RNCP level 6 certification** through a Fullstack Web Developer bootcamp at **La Capsule**.  
-- 🤝 Always curious, always learning — open to collaboration and new challenges.  
+- 🤝 Always curious, always learning — open to collaboration and new challenges.
+- 💡 **Fun fact:** Turning ideas into reality, whether on air or on the web.  
 
 ---
 
