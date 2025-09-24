@@ -15,12 +15,12 @@
 ---
 
 ### 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,reactnative,redux,mongodb,express,vscode,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,mongodb,express,vscode,nodejs)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats  
-![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&hide=HTML&layout=donut&theme=dracula)  
+![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&hide=HTML&layout=donut&theme=dracula)  
 
 ---
 
