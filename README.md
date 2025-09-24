@@ -1,4 +1,4 @@
-<div align="center">
+
 # 👩‍💻 From Sound to Software  
 *Code, creativity & curiosity*  
 
@@ -26,5 +26,3 @@
 
 ### 📬 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurie-plisson-5531961b3)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:plisson.laurie@gmail.com)  
-
-</div>
