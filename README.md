@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,mongodb,express,vscode,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,reactnative,redux,mongodb,express,vscode,nodejs)](https://skillicons.dev)
 
 ---
 
