@@ -20,8 +20,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&layout=compact&theme=radical)  
+![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&hide=HTML&layout=donut&theme=dracula)  
 
 ---
 
