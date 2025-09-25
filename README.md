@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&hide=HTML&layout=donut&theme=tokyonight"/>
-</p>
-
----
-
 ### 📬 Let’s Connect!  
 
 <div align="center">
@@ -44,3 +36,12 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plisson.laurie@gmail.com)
   
 </div>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LauriePlisson&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauriePlisson&hide=HTML&layout=donut&theme=tokyonight"/>
+</p>
+
